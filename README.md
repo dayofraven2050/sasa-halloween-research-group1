@@ -1,6 +1,6 @@
 # Sa Sa Halloween Research — Group 1
 
-## Appendix E — Collection code and data attachments
+## Appendix B — Collection code and data attachments
 
 Supporting materials for Section 2.2 of the Sa Sa Halloween marketing report.
 
