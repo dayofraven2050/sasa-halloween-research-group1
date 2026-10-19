@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-10-20",
+  "github_forks_created": false,
+  "platform_collection_executed": true,
+  "live_platform_status": {
+    "xhs": "Verified search, metadata screening, two-post technical pilot and six-post tutorial collection; raw outputs retained.",
+    "instagram": "Live pilot partially successful: first known post returned seven comments matching the earlier browser sample; second post metadata read but comment collection stopped with ConnectionException. Exact failure cause unknown."
+  },
+  "projects": [
+    {
+      "name": "MediaCrawler",
+      "upstream": "https://github.com/NanmiCoder/MediaCrawler",
+      "cloned_commit": "8f583999006d5b692272c608440e193ca282e73b",
+      "license": "NON-COMMERCIAL LEARNING LICENSE 1.1"
+    },
+    {
+      "name": "instaloader",
+      "upstream": "https://github.com/instaloader/instaloader",
+      "cloned_commit": "7efa2de6fe2a33d542dec78c7fef9b51414516ec",
+      "license": "MIT"
+    }
+  ],
+  "local_checks": {
+    "offline_workflow_tests": 17,
+    "offline_workflow_tests_passed": true,
+    "dry_runs": [
+      "xhs",
+      "instagram",
+      "xhs_search"
+    ],
+    "live_platform_test": true,
+    "dependency_check_passed": true,
+    "imports_passed": true,
+    "chrome_blank_page_smoke_passed": true
+  }
+}
