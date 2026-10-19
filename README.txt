@@ -1,4 +1,4 @@
-Appendix E electronic attachments
+Appendix B electronic attachments
 
 The workbook is the existing final analysis, copied without alteration. It contains 264 raw comment/reply records and 128 accepted substantive top-level comments from 24 attempted posts (21 with records). The CSV files provide the corresponding analytical exports.
 
