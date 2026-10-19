@@ -22,9 +22,9 @@ Supporting materials for Section 2.2 of the Sa Sa Halloween marketing report.
 
 Collection took place on 19–20 October 2026, targeting relevant 2024–2026 posts without geographic restrictions. Of 24 attempted posts, 21 yielded 264 comment or reply records. Thematic analysis retained 128 substantive top-level comments: 69 from Xiaohongshu and 59 from Instagram. The 264 records also include 47 excluded records, 23 unclear records, 36 pending records and 30 contextual replies. These categories must not be counted as additional valid thematic comments.
 
-The interview is a researcher-supplied summary from one cosplayer (n=1), not a verbatim transcript. The researcher subsequently identified her as a local Hong Kong cosplayer. This clarification does not alter the comment dataset.
+The interview is a researcher-supplied summary from one cosplayer. The researcher subsequently identified her as a local Hong Kong cosplayer. This clarification does not alter the comment dataset.
 
-Code-based collection was supplemented with browser-visible capture and individual review. Browser UI blocks are not API exports or automatically validated comments. Multiple themes can apply to one comment. Product enquiries and praise do not establish purchases. The sample is exploratory and not representative of Hong Kong consumers.
+Code-based collection was supplemented with browser-visible capture and individual review. Browser UI blocks are not API exports or automatically validated comments. Multiple themes can apply to one comment. Product enquiries and praise do not establish purchases.
 
 ## Reuse and reproducibility
 
