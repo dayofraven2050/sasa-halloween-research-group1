@@ -1,13 +1,11 @@
-Appendix B electronic attachments
+Appendix B — Final comment classification
 
-The workbook is the existing final analysis, copied without alteration. It contains 264 raw comment/reply records and 128 accepted substantive top-level comments from 24 attempted posts (21 with records). The CSV files provide the corresponding analytical exports.
+FINAL (20 October 2026): Download Appendix_B_Comment_Clusters_FINAL.xlsx from this repository.
 
-code/research/collect.py is the code-based collector; browser_capture.py captures visible Instagram comment UI blocks. Other scripts document screening, reconciliation and review. Browser blocks are not automatically validated top-level comments.
+The previous workbook and themes.csv have been removed from the current release. Their earlier versions remain in the repository commit history.
 
-These are actual project scripts for audit, not a standalone one-command reproduction package. Rerunning requires the original workspace inputs, upstream dependencies at the commits in project_sources.json, and manual platform login when requested. No login sessions, passwords or anonymisation keys are included. project_sources.json records an earlier pilot state and is not the final sample tally.
+Collection took place on 19–20 October 2026. Of 24 attempted posts, 21 yielded 264 comment or reply records. Thematic analysis retained 128 substantive top-level comments: 69 from Xiaohongshu and 59 from Instagram.
 
-The workbook preserves original local evidence paths. Screenshots are retained in the original project evidence archive; those local paths may not resolve on another computer.
+The final workbook uses report categories A–E: interest and visual appeal; product identification and sourcing; application skills and effort; service access and price information; and wear, removal and comfort. One limited-inventory comment remains under supplementary code F. Multiple coding is allowed; counts are comments, not consumers or market prevalence. Provider replies and offers are separated from consumer comments. Interest and enquiries do not establish purchases.
 
-The report now identifies the interviewee as a local Hong Kong cosplayer following the researcher's clarification. The interview remains n=1 and is a supplied summary, not a verbatim transcript.
-
-Extract the ZIP before opening the report to use its relative attachment links.
+Raw data and collection scripts remain in the repository for audit. The method notes describe reproduction limits.
